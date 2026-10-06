@@ -56,7 +56,7 @@ Make sure the following are installed:
 Clone the repository:
 
 ```bash
-git clone https://github.com/janhaviachwale-glitch/Web-assignments?utm_source=chatgpt.com
+git clone https://github.com/janhaviachwale-glitch/Web-assignments
 cd OrganizationManagement
 ```
 
