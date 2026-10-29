@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "name": "Mechanical Keyboard",
+      "price": 2499
+    },
+    {
+      "id": "p2",
+      "name": "Wireless Ergonomic Mouse",
+      "price": 1299
+    },
+    {
+      "id": "p3",
+      "name": "USB-C Multiport Adapter",
+      "price": 999
+    },
+    {
+      "id": "p4",
+      "name": "Ultra-Wide Monitor Light Bar",
+      "price": 1799
+    }
+  ],
+  "orders": []
+}
